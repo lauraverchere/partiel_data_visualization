@@ -1,1 +1,3 @@
-# partiel_data_visualization
+# Partiel Data Visualization  
+
+Réalisé par Laura VERCHERE
